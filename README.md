@@ -1,6 +1,10 @@
 # Hi there, I'm Arvie Galiza 👋
 
-### Computer Science Student | Full-Stack Developer | Machine Learning Enthusiast
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+Developer;Node.js+Developer;Computer+Science+Student;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
