@@ -52,10 +52,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Arvie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight)
+![Arvie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArvieGaliza&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvieGaliza&layout=compact&theme=tokyonight)
 
 ## 📫 Contact Me
 
