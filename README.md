@@ -58,7 +58,7 @@
 
 ## Contact Me
 
-- GitHub: [@arviegaliza](https://github.com/arviegaliza)
+- GitHub: [@arviegaliza](https://github.com/arviegaliza/rvqwry_)
 - Email: [arbgaliza@gmail.com](mailto:arbgaliza@gmail.com)
 
 ---
