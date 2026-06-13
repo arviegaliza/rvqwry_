@@ -8,11 +8,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arviegaliza&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🚀 Turning Ideas Into Reality
+## Turning Ideas Into Reality
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Computer Science student passionate about software development and Artificial Intelligence.
 - 💻 Experienced in Full-Stack Web Development using React.js, Node.js, Express.js, and MySQL.
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -51,12 +51,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Arvie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArvieGaliza&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvieGaliza&layout=compact&theme=tokyonight)
 
-## 📫 Contact Me
+## Contact Me
 
 - GitHub: [@arviegaliza](https://github.com/arviegaliza)
 - Email: [arbgaliza@gmail.com](mailto:arbgaliza@gmail.com)
