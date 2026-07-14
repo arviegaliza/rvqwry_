@@ -15,7 +15,7 @@
 ## About Me
 
 - 🎓 Computer Science student passionate about software development and Artificial Intelligence.
-- 💻 Experienced in Full-Stack Web Development using React.js, Node.js, Express.js, and MySQL.
+- 💻 Experienced in Full-Stack Web Development using React.js, Next.js, Node.js, PostgreSQL, Express.js, and MySQL.
 - 💻 Passionate Full-Stack Web Developer specializing in React.js, Node.js, Express.js, and modern web technologies.
 - 🧠 Exploring Natural Language Processing (NLP), Recommendation Systems, and AI.
 - 🌱 Always learning and building real-world projects.
